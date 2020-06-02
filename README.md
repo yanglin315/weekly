@@ -7,3 +7,4 @@
 | Vol.3 | 2020.05.11 | 虚拟列表的实现 @baihan | [Markdown](./2020-05-11.md) |-|
 | Vol.4 | 2020.05.18 | 数学宝: 嵌入式开发体验 @maojj | [Markdown](./2020-05-18.md) |-|
 | Vol.5 | 2020.05.25 | 欢迎来到 Deno 世界 @hijiangtao | [Markdown](./2020-05-25.md) |-|
+| Vol.6 | 2020.06.01 | Clean Code @wangxg6 | [Markdown](./2020-06-01.md) |-|
