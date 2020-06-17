@@ -8,3 +8,5 @@
 | Vol.4 | 2020.05.18 | 数学宝: 嵌入式开发体验 @maojj | [Markdown](./2020-05-18.md) |-|
 | Vol.5 | 2020.05.25 | 欢迎来到 Deno 世界 @hijiangtao | [Markdown](./2020-05-25.md) |-|
 | Vol.6 | 2020.06.01 | Clean Code @wangxg6 | [Markdown](./2020-06-01.md) |-|
+| Vol.7 | 2020.06.08 | Serverless@liuwenwen | [Markdown](./2020-06-08.md) |-|
+| Vol.8 | 2020.06.15 | SSR探索@ | [Markdown](./2020-06-15.md) |-|
