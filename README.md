@@ -11,4 +11,4 @@
 | Vol.7 | 2020.06.08 | Serverless@liuwenwen | [Markdown](./2020-06-08.md) |-|
 | Vol.8 | 2020.06.15 | SSR探索@huangchufeng | [Markdown](./2020-06-15.md) |-|
 | Vol.9 | 2020.06.22 | Angular 生命周期 @陈金珠 | [Markdown](./2020-06-22.md) |-|
-| Vol.10 | 2020.06.29 | RxJS @杨琳 | [Markdown](./2020-06-29.md) |-|
+| Vol.10 | 2020.06.29 | RxJS 介绍 @杨琳 | [Markdown](./2020-06-29.md) |-|
